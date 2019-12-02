@@ -1,11 +1,17 @@
 .. include:: ../../Includes.txt
 
-
 .. _page:
+.. _page-datatype:
 
 ====
 PAGE
 ====
+
+.. note::
+
+   * This is an object type (= complex data type).
+   * It is common practice to define a top level object "page"
+     of the data type PAGE.
 
 Pages are referenced by two main values. The "id" and "type".
 
@@ -17,11 +23,42 @@ is primarily used with different representations of the same content.
 Your default page will most likely have type 0 while a JSON stream with the same
 content could go with type 1.
 
-A good habit is to use :ts:`page` as the top-level object name for
-the content-page on a website.
-
 Most of this code is executed in the PHP script
 :file:`typo3/sysext/frontend/Classes/Page/PageGenerator.php`.
+
+
+Examples
+========
+
+.. code-block:: typoscript
+
+   # Default PAGE object:
+   page = PAGE
+   page.10 = TEXT
+   page.10.value = HELLO WORLD!
+
+
+.. code-block:: typoscript
+
+   page = PAGE
+   page.10 = FLUIDTEMPLATE
+   page.10 {
+      templateName = Default
+      layoutRootPaths {
+         10 = EXT:sitepackage/Resources/Private/Layouts
+      }
+      partialRootPaths {
+         10 = EXT:sitepackage/Resources/Private/Partials
+      }
+      templateRootPaths {
+         10 = EXT:sitepackage/Resources/Private/Templates
+      }
+      variables {
+         foo = TEXT
+         foo.value = bar
+      }
+   }
+
 
 Properties
 ==========

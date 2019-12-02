@@ -1,7 +1,14 @@
-.. include:: ../../Includes.txt
+.. include:: ../Includes.txt
 
+.. we keep the old label objects-optionsplit,
+   in case it is still used.
+
+.. The label objects-optionsplit should no longer be used.
+.. Use the label optionsplit instead.
+.. It only remains here, in case it is still being used.
 
 .. _objects-optionsplit:
+.. _optionsplit:
 
 ===========
 optionSplit
@@ -18,7 +25,7 @@ Introduction
 
 :ts:`optionSplit` is the codename of a very tricky - but very useful! - function
 and functionality. It is primarily used with the menu objects where it is
-enable for MANY properties. This make :ts:`optionSplit` really powerful.
+enabled for MANY properties. This make :ts:`optionSplit` really powerful.
 
 So let's take an example from menu building.
 As a result all A-tags generated from this definition will have the `class` attribute

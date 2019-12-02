@@ -3,11 +3,12 @@
 
 .. _gifbuilder:
 
+==========
 GIFBUILDER
-^^^^^^^^^^
+==========
 
-GIFBUILDER is an object, which is used in many situations for creating
-image files (e.g. gif, png or jpg). Anywhere the ->GIFBUILDER object
+GIFBUILDER is an object type, which is used in many situations for creating
+image files (e.g. gif, png or jpg). Anywhere the ->GIFBUILDER object type
 is mentioned, these are the properties that apply.
 
 Using TypoScript you can define a "numerical array" of "GIFBUILDER
@@ -65,6 +66,8 @@ As you see, the image has a width defined as the width of the text
 printed onto it + 10 pixels. The height is fixed by the value of the
 constant {$styles.header.gfx1.itemH}
 
+
+.. todo: move the _GIFBUILDER top level object to top level objects chapter
 
 .. _gifbuilder-top-level-object:
 

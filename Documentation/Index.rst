@@ -3,12 +3,9 @@
 
 .. _start:
 
-====================
-TypoScript Reference
-====================
-
-:Previous Key:
-      doc_core_tsref
+=============================
+TypoScript Template Reference
+=============================
 
 :Version:
       |release|
@@ -17,7 +14,7 @@ TypoScript Reference
       en
 
 :Description:
-      The TypoScript Reference (TSref) is a true reference describing the core Content Objects and functions available for Template building using the TypoScript template engine.
+      The TypoScript Template Reference (TSref) is a true reference describing the core Content Objects and functions available for Template building using the TypoScript template engine.
 
 :Keywords:
       forAdmins, forIntermediates
@@ -26,17 +23,11 @@ TypoScript Reference
       since 2000
 
 :Author:
-      Documentation Team
-
-:Email:
-      documentation@typo3.org
+      :ref:`Documentation Team <feedback>` & Community, see :ref:`Credits <credits>`
 
 :License:
       Open Publication License available from `www.opencontent.org/openpub/
       <http://www.opencontent.org/openpub/>`_
-
-:Rendered:
-      |today|
 
 The content of this document is related to TYPO3,
 a GNU/GPL CMS/Framework available from https://typo3.org/.
@@ -76,15 +67,46 @@ address the task at hand.
    :hidden:
 
    Introduction/Index
+   Glossary
    UsingSetting/Index
+
+.. toctree::
+   :caption: Data types
+   :hidden:
+
    DataTypes/Index
-   ObjectsAndProperties/Index
-   Conditions/Index
-   Functions/Index
-   Setup/Index
+   ObjectTypes/TopLevelObjectTypes/Index
    ContentObjects/Index
-   Gifbuilder/Index
    MenuObjects/Index
+   ObjectTypes/OtherObjectTypes/Index
+   Functions/Index
+
+.. toctree::
+   :caption: Conditions
+   :hidden:
+
+   Conditions/Index
+
+
+.. toctree::
+   :caption: Top level objects
+   :hidden:
+
+   TopLevelObjects/Index
+   TopLevelObjects/Config
+   TopLevelObjects/Page
+   TopLevelObjects/Constants
+   TopLevelObjects/Plugin
+
+.. toctree::
+   :caption: Appendix
+   :hidden:
+
    AppendixA/Index
+
+.. toctree::
+   :caption: ____________
+   :hidden:
+
    Sitemap/Index
    Targets

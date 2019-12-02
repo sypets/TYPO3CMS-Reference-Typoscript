@@ -1,7 +1,11 @@
-.. include:: ../../Includes.txt
+.. include:: ../Includes.txt
 
+.. The label objects-calc should no longer be used.
+.. Use the label calc instead.
+.. It only remains here, in case it is still being used.
 
 .. _objects-calc:
+.. _calc:
 
 ======================
 Calc

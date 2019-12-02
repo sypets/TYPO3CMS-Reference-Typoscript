@@ -3,10 +3,16 @@
 
 .. _cobj-template:
 
+========
 TEMPLATE
-^^^^^^^^
+========
 
-With this cObject you can define a template (e.g. an HTML file) which
+.. note::
+
+   * TEMPlATE is an object type (= complex data type).
+   * It is a specific :ref:`cObject <cobject>` data type.
+
+With an object of type TEMPLATE you can define a template (e.g. an HTML file) which
 should be used as a basis for your whole website. Inside the template
 file you can define markers, which later will be replaced with dynamic
 content by TYPO3.

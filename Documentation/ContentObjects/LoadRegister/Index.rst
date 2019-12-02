@@ -3,8 +3,14 @@
 
 .. _cobj-load-register:
 
+==============
 LOAD\_REGISTER
-^^^^^^^^^^^^^^
+==============
+
+.. note::
+
+   * LOAD_REGISTER is an object type (= complex data type).
+   * It is a specific :ref:`cObject <cobject>` data type.
 
 This provides a way to load the array $GLOBALS['TSFE']->register[]
 with values. It does not return anything! 

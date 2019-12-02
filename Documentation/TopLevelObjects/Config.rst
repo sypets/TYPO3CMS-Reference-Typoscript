@@ -3,8 +3,14 @@
 .. _config:
 
 ======
-config
+CONFIG
 ======
+
+.. note::
+
+   * This is an object type (= complex data type).
+   * TYPO3 by default creates a top level object "config"
+     of the object type CONFIG.
 
 In :file:`typo3/sysext/frontend/Classes/` this is known as
 :php:`$GLOBALS['TSFE']->config['config']`, thus the property :ts:`debug` below is
