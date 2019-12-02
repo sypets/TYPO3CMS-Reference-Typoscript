@@ -7,6 +7,11 @@
 USER and USER\_INT
 ==================
 
+.. note::
+
+   * USER and USER_INT is an object type (= complex data type).
+   * It is a specific :ref:`cObject <cobject>` data type.
+
 This calls either a PHP function or a method in a class. This is very
 useful if you want to incorporate your own data processing or content.
 

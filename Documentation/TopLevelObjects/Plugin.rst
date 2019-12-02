@@ -1,5 +1,4 @@
-.. include:: ../../Includes.txt
-
+.. include:: ../Includes.txt
 
 .. _plugin:
 
@@ -20,7 +19,7 @@ Furthermore this table outlines some other default properties.
 Generally system properties are prefixed with an underscore:
 
 Properties
-==========
+----------
 
 .. container:: ts-properties
 
@@ -39,7 +38,7 @@ Properties
 .. _setup-plugin-userfunc:
 
 userFunc
-========
+--------
 
 .. container:: table-row
 
@@ -57,7 +56,7 @@ userFunc
 .. _setup-plugin-css-default-style:
 
 \_CSS\_DEFAULT\_STYLE
-=====================
+---------------------
 
 .. container:: table-row
 
@@ -90,7 +89,7 @@ userFunc
 .. _setup-plugin-css-page-style:
 
 \_CSS\_PAGE\_STYLE
-==================
+------------------
 
 .. container:: table-row
 
@@ -119,7 +118,7 @@ userFunc
 .. _setup-plugin-default-pi-vars-pivar-key:
 
 \_DEFAULT\_PI\_VARS.[piVar-key]
-===============================
+-------------------------------
 
 .. container:: table-row
 
@@ -152,7 +151,7 @@ userFunc
 .. _setup-plugin-local-lang-lang-key-label-key:
 
 \_LOCAL\_LANG.[lang-key].[label-key]
-====================================
+------------------------------------
 
 .. container:: table-row
 

@@ -3,8 +3,9 @@
 
 .. _cobjects-general-information:
 
-General information
-^^^^^^^^^^^^^^^^^^^
+=====================================
+Content Objects (General Information)
+=====================================
 
 .. _cobjects-php:
 
