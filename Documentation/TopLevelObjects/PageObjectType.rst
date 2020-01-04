@@ -8,13 +8,7 @@
 PAGE
 ====
 
-.. note::
-
-   * This is an object type for the top-level object :ref:` page, ... <tlo-page>`
-   * It is common practice to define a top level object "page"
-     of the data type PAGE::
-
-        page = PAGE
+This is an object type for the top-level object :ref:`page, ... <tlo-page>`.
 
 Most of this code is executed in the PHP script
 :file:`typo3/sysext/frontend/Classes/Page/PageGenerator.php`.

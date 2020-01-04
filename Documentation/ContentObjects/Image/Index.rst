@@ -7,11 +7,6 @@
 IMAGE
 =====
 
-.. note::
-
-   * IMAGE is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
-
 Objects of type IMAGE return an image tag with the image file defined in the property
 "file" and processed according to the properties set.
 

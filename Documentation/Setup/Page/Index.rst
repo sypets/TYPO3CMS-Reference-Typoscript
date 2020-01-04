@@ -1,11 +1,13 @@
+
 :orphan:
 
 .. include:: ../../Includes.txt
 
 
 ====
-page
+PAGE
 ====
+
 
 This content was moved to :ref:`tlo-page`
 

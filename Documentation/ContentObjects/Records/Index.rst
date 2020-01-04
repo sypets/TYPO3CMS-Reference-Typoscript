@@ -3,13 +3,10 @@
 
 .. _cobj-records:
 
+=======
 RECORDS
-^^^^^^^
+=======
 
-.. note::
-
-   * RECORDS is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
 
 .. contents::
    :local:

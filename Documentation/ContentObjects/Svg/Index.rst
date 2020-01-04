@@ -7,11 +7,6 @@
 SVG
 ===
 
-.. note::
-
-   * SVG is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
-
 With this element you can insert a SVG. You can use XML data directly
 or reference a file. A flash fallback will be used for browsers which
 do not have native SVG support, so that it also works in e.g. IE

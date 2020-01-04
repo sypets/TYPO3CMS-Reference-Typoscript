@@ -2,6 +2,7 @@
 
 .. _data-type-cobject:
 .. _cobject:
+.. _cobjects:
 
 ====================
 Content Object Types

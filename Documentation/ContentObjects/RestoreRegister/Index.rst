@@ -3,13 +3,9 @@
 
 .. _cobj-restore-register:
 
+=================
 RESTORE\_REGISTER
-^^^^^^^^^^^^^^^^^
-
-.. note::
-
-   * RESTORE_REGISTER is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
+=================
 
 This unsets the latest changes in the register-array as set by
 :ref:`LOAD_REGISTER <cobj-load-register>`.

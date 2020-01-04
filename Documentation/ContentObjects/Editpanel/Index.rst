@@ -7,11 +7,6 @@
 EDITPANEL
 =========
 
-.. note::
-
-   * EDITPANEL is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
-
 A content object of type EDITPANEL is inserted only if a backend user is logged in
 and if a FE-editing extension is installed and loaded. What gets
 displayed exactly may depend on which FE-editing extension is used.

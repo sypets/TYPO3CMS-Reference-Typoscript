@@ -3,14 +3,9 @@
 
 .. _cobj-content:
 
+=======
 CONTENT
 =======
-
-.. note::
-
-   * CASE is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
-
 
 An object with the content type CONTENT is designed to generate content by allowing to
 finely select records and have them rendered.

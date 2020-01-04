@@ -7,7 +7,9 @@
 About This Manual
 =================
 
-
+The TypoScript Reference (TSref) is a true reference
+describing the core Content Objects and functions available
+for Template building using the TypoScript template engine.
 
 .. _credits:
 

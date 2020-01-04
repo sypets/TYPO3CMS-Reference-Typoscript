@@ -7,12 +7,12 @@
 TEMPLATE
 ========
 
-.. note::
+.. tip::
 
-   * TEMPlATE is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
+  It is recommended to use :ref:`cobj-fluidtemplate` to use Fluid templates in combination
+  with TypoScript. This works very similar to TEMPLATE.
 
-With an object of type TEMPLATE you can define a template (e.g. an HTML file) which
+With this cObject you can define a template (e.g. an HTML file) which
 should be used as a basis for your whole website. Inside the template
 file you can define markers, which later will be replaced with dynamic
 content by TYPO3.

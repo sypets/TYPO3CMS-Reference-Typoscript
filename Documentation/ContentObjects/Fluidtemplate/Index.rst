@@ -6,11 +6,6 @@
 FLUIDTEMPLATE
 =============
 
-.. note::
-
-   * FLUIDTEMPLATE is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
-
 An object of type FLUIDTEMPLATE works in a similar way to the regular
 "marker"-based :ref:`TEMPLATE <cobj-template>` object. However, it does not use
 markers or subparts, but allows Fluid-style variables with curly braces.

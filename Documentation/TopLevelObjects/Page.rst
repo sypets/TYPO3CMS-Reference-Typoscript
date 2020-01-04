@@ -51,7 +51,6 @@ an id parameter (for the page id), example (for json and page id 22):
 
 ``/index.php?id=22&type=1``
 
-This
 
 Guidelines
 ----------

@@ -3,9 +3,9 @@
 
 .. _start:
 
-====================
-TypoScript Reference
-====================
+=============================
+TypoScript Template Reference
+=============================
 
 :Version:
       |release|
@@ -14,7 +14,7 @@ TypoScript Reference
       en
 
 :Description:
-      The TypoScript Reference (TSref) is a true reference describing the core Content Objects and functions available for Template building using the TypoScript template engine.
+      The TypoScript Template Reference (TSref) is a true reference describing the core Content Objects and functions available for Template building using the TypoScript template engine.
 
 :Keywords:
       forAdmins, forIntermediates
@@ -107,7 +107,6 @@ second example, it would still not work, because the property **"value"**
 is misspelled.
 
 Always remember: In this manual the case of objects **is** important.
-
 
 Official documentation
 ======================

@@ -7,14 +7,7 @@
 HMENU
 =====
 
-.. note::
-
-   * HMENU is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
-
-
-Objects of type HMENU generates hierarchical menus. It is the one usually being
-used to create the navigation menu of websites.
+Objects of type HMENU generates hierarchical menus.
 
 The cObject HMENU allows you to define the global settings of the menu
 as a whole. For the rendering of the single menu levels, different

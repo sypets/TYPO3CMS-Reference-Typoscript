@@ -7,12 +7,7 @@
 FILES
 =====
 
-.. note::
-
-   * EDITPANEL is an object type (= complex data type).
-   * It is a specific :ref:`cObject <cobject>` data type.
-
-A content object of type FILE was integrated with the File Abstraction Layer (FAL)
+A content object of type FILES was integrated with the File Abstraction Layer (FAL)
 and is there to output information about files.
 
 
