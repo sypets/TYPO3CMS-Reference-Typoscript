@@ -81,7 +81,7 @@ Simple data type
     != Complex data type. If a variable has a simple data type, it cannot be
     assigned an object. Hence, it is a property.
 
-Object Type
+Object type
    = **complex data type**. If a variable is an object and thus
    has a complex data type, it will contain several variables.
    In example 2 above, `object1` has a complex data type, as does

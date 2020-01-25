@@ -3,7 +3,8 @@
 .. _data-types:
 .. _data-types-reference:
 
-Simple Data Types
+=================
+Simple data types
 =================
 
 The values assigned to properties in TypoScript are often of a

@@ -70,7 +70,7 @@ constant {$styles.header.gfx1.itemH}
 .. _gifbuilder-top-level-object:
 .. _tlo-gifbuilder:
 
-_GIFBUILDER Top Level Object
+_GIFBUILDER top level object
 ============================
 
 You can configure some global settings for GIFBUILDER by a top-level

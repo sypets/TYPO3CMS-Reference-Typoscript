@@ -4,7 +4,7 @@
 .. _cobjects-general-information:
 
 =====================================
-Content Objects (General Information)
+Content objects (general information)
 =====================================
 
 .. _cobjects-php:

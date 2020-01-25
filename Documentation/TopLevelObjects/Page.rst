@@ -19,7 +19,7 @@ explicitly, e.g.::
     page = PAGE
 
 
-Multiple Pages
+Multiple pages
 ==============
 
 Pages are referenced by two main values. The "id" and "type".

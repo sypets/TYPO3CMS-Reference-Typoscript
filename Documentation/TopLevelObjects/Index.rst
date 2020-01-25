@@ -5,7 +5,7 @@
 .. _top-level-objects:
 
 =================
-Top-level Objects
+Top-level objects
 =================
 
 As described in the :ref:`TypoScript syntax introduction <t3coreapi:typoscript-syntax-introduction>`

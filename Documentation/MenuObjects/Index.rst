@@ -4,7 +4,7 @@
 .. _menu-objects:
 
 =================
-MENU Object Types
+MENU object types
 =================
 
 :aspect:`Description:`

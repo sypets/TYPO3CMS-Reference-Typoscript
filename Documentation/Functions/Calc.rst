@@ -21,8 +21,8 @@ operators have no "weight".* The calculation is just done from left to
 right.
 
 
-how value is calculated:
-~~~~~~~~~~~~~~~~~~~~~~~~
+How value is calculated
+~~~~~~~~~~~~~~~~~~~~~~~
 
 ::
 
@@ -30,8 +30,8 @@ how value is calculated:
    (which is the same as this in ordinary arithmetic: (45+34)*2=158)
 
 
-calc usage example:
-~~~~~~~~~~~~~~~~~~~
+calc usage example
+~~~~~~~~~~~~~~~~~~
 
 The :ts:`HMENU` :ts:`maxAge` property is of a type ``integer +calc``, it's value in this example equals to 259200.
 

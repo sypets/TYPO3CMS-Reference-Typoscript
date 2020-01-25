@@ -5,7 +5,7 @@
 .. _cobjects:
 
 ====================
-Content Object Types
+Content object types
 ====================
 
 
